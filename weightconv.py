@@ -9,3 +9,5 @@ if unit=="KG":
 elif unit == "LBS":
     conv = .45 * weight
     print(conv,"KG")
+else:
+    print("INVLD INPUT")
